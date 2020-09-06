@@ -1,0 +1,9 @@
+10 a = 0
+20 b = 1
+30 c = 0
+40 print a
+50 d = a + b
+60 a = b
+70 b = d
+80 c = c+1
+90 if c < 30 then 40
